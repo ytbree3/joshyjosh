@@ -1,6 +1,6 @@
-discord.py==2.0
+discord.py==2.6.3
 discord-py-interactions==3.0.2
 python-dotenv
-psycopg2==2.9.1
-requests==2.26.0
-Flask==3.0.3
+psycopg2-binary==2.9.10
+requests==2.32.5
+Flask==3.1.2
